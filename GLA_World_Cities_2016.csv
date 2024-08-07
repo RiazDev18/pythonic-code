@@ -1,0 +1,19 @@
+﻿City,Country,Population,Inland area in km2,Density in people per hectare,Dwellings,Density in dwellings per hectare,People per dwelling,Approx city radius km,Main topographical constraint,Constraint
+,,,,,,,,,,
+Greater London ,England ,"8,663,300","1,572",55,"3,454,490",22,2.5,23,Rivers ,4%
+Inner London ,England ,"3,439,700",319,108,"1,460,840",46,2.4,10,Rivers ,5%
+Outer London ,England ,"5,223,500","1,254",42,"1,993,660",16,2.6,NA,NA,NA
+Paris ,France ,"2,229,621",105,212,"1,336,209",127,1.7,8, Rivers,2%
+Lyon ,France ,"500,715",48,105,"265,599",55,1.9,7, Rivers,5%
+Berlin ,Germany ,"3,469,849",892,39,"1,892,000",21,1.8,16, Rivers,6%
+Madrid (City) ,Spain ,"3,141,991",606,52,"1,320,531",22,2.4,13, Mountains,12%
+Barcelona ,Spain ,"1,604,555",98,163,"684,078",70,2.3,6, Coast and mountains,75%
+Sevilla ,Spain ,"693,878",141,49,"268,435",19,2.6,7, Rivers,3%
+New York (City) ,United States ,"8,491,079",784,108,"3,371,062",43,2.5,14, Coast and rivers,40%
+Chicago ,United States ,"2,722,389",590,46,"1,194,337",20,2.3,13, Lake,45%
+Boston ,United States ,"617,594",125,49,"272,481",22,2.3,6, Coast,30%
+Rio de Janeiro (Municipality) ,Brazil ,"6,476,631",1200,54,"2,467,000",21,2.6,18, Coast and mountains,75%
+Belo Horizonte (Municipality) ,Brazil ,"2,375,151",331,76,"762,075",23,3.1,10, Mountains,45%
+Singapore ,Singapore ,"3,902,710",666,59,"1,225,300",18,3.2,14, Coast,95%
+Tokyo (Special Wards Area) ,Japan ,"9,272,565",627,148,"6,437,000",103,1.4,14, Coast and mountains,70%
+Osaka (City) ,Japan ,"2,691,742",225,120,"1,634,100",73,1.6,8, Coast,20%
